@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlcoholOrGasoline", "Alcoho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlcoholOrGasoline.Tests", "AlcoholOrGasoline.Tests\AlcoholOrGasoline.Tests.csproj", "{002EA8F0-BB90-462F-9711-B4A3B2E961C8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Media", "Media", "{428DC61F-A8DA-41AC-B189-F0656F969353}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Media", "Media", "{5F902270-E57A-4C4C-9DB3-F64AAE89A84B}"
 	ProjectSection(SolutionItems) = preProject
 		Media\AlcoholOrGasolineIcon.png = Media\AlcoholOrGasolineIcon.png
 	EndProjectSection

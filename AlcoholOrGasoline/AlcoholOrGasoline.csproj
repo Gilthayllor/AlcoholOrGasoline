@@ -15,7 +15,6 @@
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageTags>alcohol;gasoline</PackageTags>
 		<Title>Alcohol or Gasoline</Title>
-		<PackageIcon>AlcoholOrGasolineIcon.png</PackageIcon>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 	</PropertyGroup>
 </Project>
