@@ -16,5 +16,12 @@
 		<PackageTags>alcohol;gasoline</PackageTags>
 		<Title>Alcohol or Gasoline</Title>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<PackageIcon>AlcoholOrGasoline.png</PackageIcon>
 	</PropertyGroup>
+	<ItemGroup>
+	  <None Include="..\Media\AlcoholOrGasoline.png">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
 </Project>
