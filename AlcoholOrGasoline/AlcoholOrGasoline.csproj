@@ -1,12 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<PackageId>$(AssemblyName)</PackageId>
 		<VersionPrefix>1</VersionPrefix>
-		<Version>$(VersionPrefix).0.1</Version>
+		<Version>$(VersionPrefix).0.2</Version>
 		<Description>This project calculates whether it is cheaper to fill up with alcohol or gasoline.</Description>
 		<Summary>This project calculates whether it is cheaper to fill up with alcohol or gasoline.</Summary>
 		<Authors>Gilthayllor Sousa</Authors>
@@ -17,13 +16,6 @@
 		<PackageTags>alcohol;gasoline</PackageTags>
 		<Title>Alcohol or Gasoline</Title>
 		<PackageIcon>AlcoholOrGasolineIcon.png</PackageIcon>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 	</PropertyGroup>
-
-	<ItemGroup>
-	  <None Include="..\Media\AlcoholOrGasolineIcon.png">
-	    <Pack>True</Pack>
-	    <PackagePath>\</PackagePath>
-	  </None>
-	</ItemGroup>
-	
 </Project>
