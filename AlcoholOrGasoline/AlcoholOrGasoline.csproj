@@ -5,7 +5,7 @@
 		<Nullable>enable</Nullable>
 		<PackageId>$(AssemblyName)</PackageId>
 		<VersionPrefix>1</VersionPrefix>
-		<Version>$(VersionPrefix).0.2</Version>
+		<Version>$(VersionPrefix).0.3</Version>
 		<Description>This project calculates whether it is cheaper to fill up with alcohol or gasoline.</Description>
 		<Summary>This project calculates whether it is cheaper to fill up with alcohol or gasoline.</Summary>
 		<Authors>Gilthayllor Sousa</Authors>

@@ -10,8 +10,8 @@ namespace AlcoholOrGasoline
     {
         public enum AlcoholOrGasolineEnum
         {
-            Alcohol,
-            Gasoline
+            Alcohol = 1,
+            Gasoline = 2
         }
 
         /// <summary>
